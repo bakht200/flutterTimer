@@ -1,16 +1,9 @@
-# flutter_timer
+# Flutter Timer with GetX
+* Simple Timer app using GetX in Flutter
 
-A new Flutter project.
+![Untitled-1](https://user-images.githubusercontent.com/91388754/181694892-8e4240f8-3086-498b-96cc-fbe2894fcfc7.png)
+## Links
+### Support Me
+<a href="https://www.buymeacoffee.com/AmirBayat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+### Socials
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
